@@ -19,7 +19,9 @@ function play() {
   audio.play();
 }
 
-   
+    function myFunction(){
+     alert(document.getElementById("pp").style.fontSize);
+   }
 
 function myFunction() {
   var x = document.getElementById("myImg").width;
